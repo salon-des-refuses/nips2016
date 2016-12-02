@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <h1>Salon des Refusés</h1>
-  <h2>Volume {{ site.volume }}: {{ site.conference.name }} </h2>
+  <!--<h2>Volume {{ site.volume }}: {{ site.conference.name }} </h2>-->
 
   
   <div id="sectionnav">
@@ -24,7 +24,7 @@ layout: default
   {% if site.sections %}
   {% for section in site.sections %}
   <h3 id="{{ section.name }}">{{ section.title }}</h3>
-    {% for post in site.posts %}
+    {% for post in site.posts | reverse %}
     {% if section.name == post.section %}
     {% include paper_list.html %}
     {% endif %}
@@ -33,7 +33,7 @@ layout: default
   {% endfor %}
   {% endif %}
   <dl>
-  {% for post in site.posts  %}
+  {% for post in site.posts | reverse%}
   {% unless post.section %} 
   {% include paper_list.html %}
   {% endunless %}
