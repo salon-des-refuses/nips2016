@@ -1,7 +1,7 @@
 ---
 layout: refuses
 arxiv: 1602.06886v2
-title: Clustering with a Reject Option: Interactive Clustering as Bayesian Prior Elicitation
+title: "Clustering with a Reject Option: Interactive Clustering as Bayesian Prior Elicitation"
 authors:
 - firstname: Akash
   lastname: Srivastava
