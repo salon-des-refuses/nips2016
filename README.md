@@ -1,2 +1,2 @@
 # nips2016
-Papers presented from the NIPS 2016 conference.
+Papers that were submitted to the NIPS 2016 conference but not accepted.
