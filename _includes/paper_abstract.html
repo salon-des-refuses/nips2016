@@ -29,8 +29,8 @@
       {% if page.researchgate %}
       <li><a href="https://www.researchgate.net/publication/{{ page.researchgate }}">ResearchGate</a></li>
       {% endif %}
-      {% if page.url %}
-      <li><a href="{{ page.url }}">URL</a></li>
+      {% if page.pdf %}
+      <li><a href="{{ page.pdf }}">PDF</a></li>
       {% endif %}
       {% for extra in page.extras %}
       <li><a href="{{ extra.link }}">{{ extra.label }}</a></li>
