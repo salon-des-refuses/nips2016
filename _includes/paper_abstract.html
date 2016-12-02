@@ -26,7 +26,7 @@
       {% if page.arxiv %}
       <li><a href="https://arxiv.org/abs/{{ page.arxiv }}">arxiv</a></li>
       {% unless post.pdf %}
-      <li><a href="https://arxiv.org/pdf/{{ post.arxiv }}.pdf">pdf</a></li>
+      <li><a href="https://arxiv.org/pdf/{{ page.arxiv }}.pdf">pdf</a></li>
       {% endunless %}
       {% endif %}
       {% if page.researchgate %}
