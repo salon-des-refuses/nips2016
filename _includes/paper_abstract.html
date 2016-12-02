@@ -13,11 +13,13 @@
   <div id="info">
     Salon des Refusés for {{ site.conference.name }}, {{ site.conference.year }}
   </div> <!-- info -->
-  
+{% if page.abstract %}  
   <h2>Abstract</h2>
   <div id="abstract">
     {{ page.abstract | markdownify }}
   </div>
+  {% endif %}
+
   <h2>Related Material</h2>
   <div id="extras">
     <ul>
