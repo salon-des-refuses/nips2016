@@ -1,0 +1,27 @@
+# Site settings
+# Auto generated from v2.bib
+---
+title: NIPS Salon des Refusés
+description: > # this means to ignore newlines until "baseurl:"
+  This is the Salon des Refusés for the 2016 NIPS Conference.
+
+layout: proceedings
+volume: 1
+
+year: 2016
+
+published: 2016-12-02
+comments: true
+
+url: http://salon-des-refuses.github.io/
+baseurl: "/nips2016"
+
+conference:
+  name: NIPS 2016
+  url: http://nips.cc
+  shortname: nips
+  
+twitter_username: salon-des-refuses
+github_username: salon-des-refuses
+markdown: kramdown
+permalink: "/:categories/:title.html"
