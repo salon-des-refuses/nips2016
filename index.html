@@ -34,7 +34,7 @@ layout: default
   {% endfor %}
   {% endif %}
 <dl>
-  {% for post in site.posts | reverse%}
+  {% for post in site.posts | reverse %}
   {% unless post.section %} 
   {% include paper_list.html %}
   {% endunless %}
