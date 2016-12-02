@@ -26,6 +26,15 @@
       {% if page.pdf %}
       <li><a href="{{ page.pdf }}">Download PDF</a></li>
       {% endif %}
+      {% if page.arxiv %}
+      <li><a href="https://arxiv.org/abs/{{ page.arxiv }}">arxiv</a></li>
+      {% endif %}
+      {% if page.researchgate %}
+      <li><a href="https://www.researchgate.net/publication/{{ page.researchgate }}">ResearchGate</a></li>
+      {% endif %}
+      {% if page.url %}
+      <li><a href="{{ page.url }}">URL</a></li>
+      {% endif %}
       {% for extra in page.extras %}
       <li><a href="{{ extra.link }}">{{ extra.label }}</a></li>
       {% endfor %}
