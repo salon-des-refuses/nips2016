@@ -28,4 +28,4 @@ disqus:
 twitter_username: salondr
 github_username: salon-des-refuses
 markdown: kramdown
-permalink: "/:categories/:title.html"
+permalink: ":categories/:title.html"
