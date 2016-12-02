@@ -11,6 +11,9 @@
     [<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">abs</a>]
     {% if post.arxiv %}
     [<a href="https://arxiv.org/abs/{{ post.arxiv }}">arxiv</a>]
+    {% unless post.pdf %}
+    [<a href="https://arxiv.org/pdf/{{ post.arxiv }}.pdf">arxiv</a>]
+    {% endunless %}
     {% endif %}
     {% if post.researchgate %}
     [<a href="https://www.researchgate.net/publication/{{ post.researchgate }}">ResearchGate</a>]
