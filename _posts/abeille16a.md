@@ -1,0 +1,12 @@
+---
+layout: refuses
+url: http://researchers.lille.inria.fr/~lazaric/Webpage/Publications_files/main.pdf
+title: Linear Thompson Sampling Revisited
+authors:
+- firstname: Marc
+  lastname: Abeille
+  institute: Inria-Lille
+- firstname: Alessandro
+  lastname: Lazaric
+  institute: Inria-Lille
+---

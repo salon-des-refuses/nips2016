@@ -1,0 +1,24 @@
+---
+layout: refuses
+arxiv: 1608.01409
+title: Holistic SparseCNN: Forging the Trident of Accuracy, Speed, and Size
+authors:
+- firstname: Jongsoo
+  lastname: Park
+  institute: Intel Corporation
+- firstname: Sheng R.
+  lastname: Li
+  institute: Intel Corporation
+- firstname: Wei
+  lastname: Wen
+  institute: University of Pittsburgh
+- firstname: Hai
+  lastname: Li
+  institute: University of Pittsburgh
+- firstname: Yiran
+  lastname: Chen
+  institute: University of Pittsburgh
+- firstname: Pradeep
+  lastname: Dubey
+  institute: Intel Corporation
+---

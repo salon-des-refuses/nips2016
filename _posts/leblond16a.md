@@ -1,0 +1,15 @@
+---
+layout: refuses
+arxiv: 1606.04809
+title: Asaga: Asynchronous Parallel SAGA
+authors:
+- firstname: Rémi
+  lastname: Leblond
+  institute: Ecole Normale Supérieure / INRIA Sierra
+- firstname: Fabian
+  lastname: Pedregosa
+  institute: Ecole Normale Supérieure / INRIA Sierra
+- firstname: Simon
+  lastname: Lacoste-Julien
+  institute: Department of (CS &amp OR DIRO) Université de Montréal
+---

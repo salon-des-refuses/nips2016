@@ -1,0 +1,15 @@
+---
+layout: refuses
+arxiv: 1605.07541
+title: Inductive quantum learning: Why you are doing it almost right
+authors:
+- firstname: Alex
+  lastname: Monràs
+  institute: Universitat Autònoma de Barcelona
+- firstname: Gael
+  lastname: Sentís
+  institute: Universidad del País Vasco
+- firstname: Peter
+  lastname: Wittek
+  institute: ICFO-The Institute of Photonic Sciences
+---

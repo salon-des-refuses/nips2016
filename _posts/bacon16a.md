@@ -1,0 +1,15 @@
+---
+layout: refuses
+arxiv: 1609.05140
+title: The Option-Critic Architecture
+authors:
+- firstname: Pierre-Luc
+  lastname: Bacon
+  institute: McGill University
+- firstname: Jean
+  lastname: Harb
+  institute: McGill University
+- firstname: Doina
+  lastname: Precup
+  institute: McGill University
+---

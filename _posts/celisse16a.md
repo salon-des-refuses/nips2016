@@ -1,0 +1,12 @@
+---
+layout: refuses
+arxiv: 1608.06412
+title: Stability revisited: new generalisation bounds for the Leave-one-Out
+authors:
+- firstname: Alain
+  lastname: Celisse
+  institute: Université de Lille
+- firstname: Benjamin
+  lastname: Guedj
+  institute: Inria
+---

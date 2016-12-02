@@ -1,0 +1,12 @@
+---
+layout: refuses
+arxiv: 1606.00226
+title: Crowdsourcing: Low Complexity, Minimax Optimal Algorithms
+authors:
+- firstname: Thomas
+  lastname: Bonald
+  institute: Telecom ParisTech
+- firstname: Richard
+  lastname: Combes
+  institute: Centrale-Supelec
+---

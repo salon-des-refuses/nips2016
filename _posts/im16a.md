@@ -1,0 +1,14 @@
+---
+layout: refuses
+arxiv: 1602.05110
+title: Generating images with recurrent adversarial networks
+authors:
+- firstname: Daniel Jiwoong
+  lastname: Im
+- firstname: Chris Dongjoo
+  lastname: Kim
+- firstname: Hui
+  lastname: Jiang
+- firstname: Roland
+  lastname: Memisevic
+---

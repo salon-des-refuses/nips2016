@@ -1,0 +1,12 @@
+---
+layout: refuses
+arxiv: 1511.03719
+title: Universum Prescription: Regularization using Unlabeled Data
+authors:
+- firstname: Xiang
+  lastname: Zhang
+  institute: New York University
+- firstname: Yann
+  lastname: LeCun
+  institute: New York University
+---

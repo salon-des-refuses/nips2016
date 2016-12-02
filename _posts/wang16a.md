@@ -1,0 +1,16 @@
+---
+layout: refuses
+arxiv: 1606.03860
+title: Reweighted Data for Robust Probabilistic Models
+keyname: wang16a
+authors:
+- firstname: Yixin
+  lastname: Wang
+  institute: Columbia University
+- firstname: Alp
+  lastname: Kucukelbir
+  institute: Columbia University
+- firstname: David M.
+  lastname: Blei
+  institute: Columbia University
+---

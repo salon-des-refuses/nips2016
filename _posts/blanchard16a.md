@@ -1,0 +1,12 @@
+---
+layout: refuses
+arxiv: 1611.03979
+title: Kernel regression, minimax rates and effective dimensionality: beyond the regular case
+authors:
+- firstname: Gilles
+  lastname: Blanchard
+  institute: Potsdam University
+- firstname: Nicole
+  lastname: Mücke
+  institute: Potsdam University
+---

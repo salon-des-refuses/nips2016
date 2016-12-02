@@ -1,0 +1,12 @@
+---
+layout: refuses
+arxiv: 1606.01672v2
+title: Predictive Coding for Dynamic Vision: Development of Functional Hierarchy in a Multiple Spatio-Temporal Scales RNN Model
+authors:
+- firstname: Minkyu
+  lastname: Choi
+  institute: KAIST
+- firstname: Jun
+  lastname: Tani
+  institute: KAIST
+---

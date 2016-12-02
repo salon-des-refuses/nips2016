@@ -1,0 +1,12 @@
+---
+layout: refuses
+arxiv: 1606.07326
+title: DropNeuron: An Approach for Simplifying the Structure of Deep Neural Networks
+authors:
+- firstname: Wei
+  lastname: Pan
+- firstname: Hao
+  lastname: Dong
+- firstname: Yike
+  lastname: Guo
+---

@@ -1,0 +1,15 @@
+---
+layout: refuses
+url: http://www.cs.cmu.edu/~yifeim/papers/ma17activeregion.pdf
+title: Active Search for Sparse Signals with Region Sensing
+authors:
+- firstname: Yifei
+  lastname: Ma
+  institute: Carnegie Mellon University
+- firstname: Roman
+  lastname: Garnett
+  institute: Washington University in St. Louis
+- firstname: Jeff
+  lastname: Schneider
+  institute: Carnegie Mellon University
+---

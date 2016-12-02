@@ -1,6 +1,7 @@
 ---
+layout: refuses
 arxiv: 1610.02424
-title: Diverse Beam Search: Decoding Diverse Sequences from Neural Sequence Models
+title: "Diverse Beam Search: Decoding Diverse Sequences from Neural Sequence Models"
 key: vijayakumar16a
 categories:
 - vijayakumar16a
