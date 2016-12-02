@@ -21,6 +21,7 @@ layout: default
     <label for="search-titles">Filter Titles:</label>
     <input type="search" name="filter-titles" id="search-titles" value />
   </div>
+  <h3 id="exhibition">Papers in the Exhibition</h3>
   {% if site.sections %}
   {% for section in site.sections %}
   <h3 id="{{ section.name }}">{{ section.title }}</h3>
@@ -32,7 +33,7 @@ layout: default
   </dl>
   {% endfor %}
   {% endif %}
-  <dl>
+<dl>
   {% for post in site.posts | reverse%}
   {% unless post.section %} 
   {% include paper_list.html %}
