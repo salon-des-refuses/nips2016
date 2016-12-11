@@ -36,7 +36,9 @@
       <li><a href="{{ extra.link }}">{{ extra.label }}</a></li>
       {% endfor %}
       {% if site.github.links %}
-      <li><a href="{{ site.github.url }}/{{ site.github_username }}{{site.baseurl}}/blob/gh-pages/{{ page.path }}">github</a> </li>
+      <li><a href="{{ site.github.url }}/{{ site.github_username }}{{site.baseurl}}/blob/gh-pages/{{ page.path }}">github</a> 	    {% if site.github.fix %} 
+      (<a href="{{ site.github.url }}/{{ site.github_username }}{{site.baseurl}}/edit/gh-pages/{{ page.path }}">fix</a>){% endif %}
+</li>
       {% endif %}
     </ul>
   </div>
