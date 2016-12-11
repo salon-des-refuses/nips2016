@@ -25,6 +25,7 @@ comments: true
 github:
   links: true
   url: https://github.com
+  fix: true
 disqus:
   shortname: mlrpress
   
