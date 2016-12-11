@@ -22,6 +22,7 @@ conference:
   shortname: nips
 
 comments: true
+github_links: true
 disqus:
   shortname: mlrpress
   
