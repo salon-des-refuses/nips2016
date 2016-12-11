@@ -22,7 +22,9 @@ conference:
   shortname: nips
 
 comments: true
-github_links: true
+github:
+  links: true
+  url: https://github.com
 disqus:
   shortname: mlrpress
   

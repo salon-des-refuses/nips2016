@@ -35,8 +35,8 @@
       {% for extra in page.extras %}
       <li><a href="{{ extra.link }}">{{ extra.label }}</a></li>
       {% endfor %}
-      {% if site.github_links %}
-      <li><a href="{{ page.path }}">Paper details on GitHub</a></li>
+      {% if site.github.links %}
+      <li><a href="{{ site.github.url }}/{{ site.github_username }}/{{site.base_url}}{{ page.path }}">Paper details on GitHub</a></li>
       {% endif %}
     </ul>
   </div>
