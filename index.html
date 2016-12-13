@@ -30,7 +30,7 @@ title: NIPS Salon des Refusés
   {% if site.sections %}
   {% for section in site.sections %}
   <h3 id="{{ section.name }}">{{ section.title }}</h3>
-    {% for post in site.posts %}
+    {% for post in site.posts reversed %}
     {% if section.name == post.section %}
     {% include paper_list.html %}
     {% endif %}
@@ -39,7 +39,7 @@ title: NIPS Salon des Refusés
   {% endfor %}
   {% endif %}
 <dl>
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
   {% unless post.section %} 
   {% include paper_list.html %}
   {% endunless %}
