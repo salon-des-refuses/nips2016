@@ -15,8 +15,6 @@ published: 2016-12-02
 url: http://salon-des-refuses.org
 baseurl: "/nips2016"
 
-github:
-  edit: true
 
 conference:
   name: NIPS
@@ -26,9 +24,8 @@ conference:
 
 comments: true
 github:
-  links: true
-  url: https://github.com
-  fix: true
+  edit: true
+
 disqus:
   shortname: mlrpress
   
