@@ -15,6 +15,9 @@ published: 2016-12-02
 url: http://salon-des-refuses.org
 baseurl: "/nips2016"
 
+github:
+  edit: true
+
 conference:
   name: NIPS
   year: 2016
