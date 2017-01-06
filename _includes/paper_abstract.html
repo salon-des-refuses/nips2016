@@ -3,8 +3,8 @@
   {% include edit_link.html %}
   <br>
   <div id="authors">
-    {% assign lastone = page.authors | last %}
-    {% for person in page.authors %}
+    {% assign lastone = page.author | last %}
+    {% for person in page.author %}
     {% include listfullperson.html %}
     {% endfor %}
   </div>

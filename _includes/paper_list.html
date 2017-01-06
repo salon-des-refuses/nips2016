@@ -2,7 +2,7 @@
   <p class="title">{{ post.title }}</p>
   <p class="details">
     <span class="authors">
-      {% for person in post.authors %}
+      {% for person in post.author %}
       {% include listauthor.html %}
       {% endfor %}
     </span>
