@@ -15,7 +15,11 @@ published: 2016-12-02
 url: http://salon-des-refuses.org
 baseurl: "/nips2016"
 
-
+sections:
+- name: pre
+  title: "Pre-Conference Listing"
+- name: post
+  title: "Post-Conference Listing"
 conference:
   name: NIPS
   year: 2016
