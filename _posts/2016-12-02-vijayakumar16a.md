@@ -1,30 +1,31 @@
 ---
-layout: refuses
 arxiv: 1610.02424
-title: "Diverse Beam Search: Decoding Diverse Sequences from Neural Sequence Models"
-key: vijayakumar16a
-categories:
-- vijayakumar16a
 authors:
 - firstname: Ashwin K.
+  institute: Virginia Tech
   lastname: Vijayakumar
-  institute: Virginia Tech
 - firstname: Michael
+  institute: Virginia Tech
   lastname: Cogswell
-  institute: Virginia Tech
 - firstname: Ramprasaath R.
+  institute: Virginia Tech
   lastname: Selvaraju
-  institute: Virginia Tech
 - firstname: Qing
+  institute: Virginia Tech
   lastname: Sun
-  institute: Virginia Tech
 - firstname: Stefan
+  institute: Virginia Tech
   lastname: Lee
-  institute: Virginia Tech
 - firstname: David
-  lastname: Crandall
   institute: Indiana University
+  lastname: Crandall
 - firstname: Dhruv
-  lastname: Batra
   institute: Virginia Tech
+  lastname: Batra
+categories:
+- vijayakumar16a
+key: vijayakumar16a
+layout: refuses
+section: pre
+title: 'Diverse Beam Search: Decoding Diverse Sequences from Neural Sequence Models'
 ---

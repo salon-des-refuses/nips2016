@@ -1,15 +1,17 @@
 ---
-layout: refuses
 arxiv: 1602.06886v2
-title: "Clustering with a Reject Option: Interactive Clustering as Bayesian Prior Elicitation"
 authors:
 - firstname: Akash
+  institute: Informatics Forum, University of Edinburgh
   lastname: Srivastava
-  institute: Informatics Forum, University of Edinburgh
 - firstname: James
-  lastname: Zou
   institute: Microsoft Research and Stanford University
+  lastname: Zou
 - firstname: Charles
-  lastname: Sutton
   institute: Informatics Forum, University of Edinburgh
+  lastname: Sutton
+layout: refuses
+section: pre
+title: 'Clustering with a Reject Option: Interactive Clustering as Bayesian Prior
+  Elicitation'
 ---

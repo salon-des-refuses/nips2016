@@ -1,12 +1,13 @@
 ---
-layout: refuses
 arxiv: 1611.05141
-title: Training Spiking Deep Networks for Neuromorphic Hardware
 authors:
 - firstname: Eric
+  institute: University of Waterloo
   lastname: Hunsberger
-  institute: University of Waterloo
 - firstname: Chris
-  lastname: Eliasmith
   institute: University of Waterloo
+  lastname: Eliasmith
+layout: refuses
+section: pre
+title: Training Spiking Deep Networks for Neuromorphic Hardware
 ---

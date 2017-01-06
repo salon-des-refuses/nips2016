@@ -1,18 +1,19 @@
 ---
-layout: refuses
 arxiv: 1605.05509
-title: Learning activation functions from data using cubic spline interpolation
 authors:
 - firstname: Simone
+  institute: Sapienza University of Rome
   lastname: Scardapane
-  institute: Sapienza University of Rome
 - firstname: Michele
+  institute: Sapienza University of Rome
   lastname: Scarpiniti
-  institute: Sapienza University of Rome
 - firstname: Danilo
+  institute: Sapienza University of Rome
   lastname: Comminiello
-  institute: Sapienza University of Rome
 - firstname: Aurelio
-  lastname: Uncini
   institute: Sapienza University of Rome
+  lastname: Uncini
+layout: refuses
+section: pre
+title: Learning activation functions from data using cubic spline interpolation
 ---
