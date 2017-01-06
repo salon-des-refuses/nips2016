@@ -18,8 +18,10 @@ baseurl: "/nips2016"
 sections:
 - name: pre
   title: "Pre-Conference Listing"
+  description: "Papers submitted to the Salon before the NIPS conference."
 - name: post
   title: "Post-Conference Listing"
+  description: "Papers submitted to the Salon after the NIPS conference."
 conference:
   name: NIPS
   year: 2016

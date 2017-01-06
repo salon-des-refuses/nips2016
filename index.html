@@ -30,6 +30,9 @@ title: NIPS Salon des Refusés
   {% if site.sections %}
   {% for section in site.sections %}
   <h3 id="{{ section.name }}">{{ section.title }}</h3>
+  {% if section.description %}
+  <p>{{ section.description }}</p>
+  {% endif %}
     {% for post in site.posts reversed %}
     {% if section.name == post.section %}
     {% include paper_list.html %}

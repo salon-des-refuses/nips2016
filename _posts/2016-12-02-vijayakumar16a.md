@@ -1,27 +1,27 @@
 ---
 arxiv: 1610.02424
-authors:
-- firstname: Ashwin K.
+author:
+- family: Vijayakumar
+  given: Ashwin K.
   institute: Virginia Tech
-  lastname: Vijayakumar
-- firstname: Michael
+- family: Cogswell
+  given: Michael
   institute: Virginia Tech
-  lastname: Cogswell
-- firstname: Ramprasaath R.
+- family: Selvaraju
+  given: Ramprasaath R.
   institute: Virginia Tech
-  lastname: Selvaraju
-- firstname: Qing
+- family: Sun
+  given: Qing
   institute: Virginia Tech
-  lastname: Sun
-- firstname: Stefan
+- family: Lee
+  given: Stefan
   institute: Virginia Tech
-  lastname: Lee
-- firstname: David
+- family: Crandall
+  given: David
   institute: Indiana University
-  lastname: Crandall
-- firstname: Dhruv
+- family: Batra
+  given: Dhruv
   institute: Virginia Tech
-  lastname: Batra
 categories:
 - vijayakumar16a
 key: vijayakumar16a
